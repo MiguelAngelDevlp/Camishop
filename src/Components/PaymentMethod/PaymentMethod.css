@@ -1,0 +1,126 @@
+#conteiner-paid {
+    margin-left: 40px;
+    width: 900px;
+    margin-top: -50px;
+    /* display: block; */
+}
+
+#conteiner-paid h3 {
+    font-weight: 600;
+    font-size: 34px;
+    color: #2A5B45;
+    text-align: right;
+    margin-right: 0px;
+    margin-top: 90px;
+}
+
+#conteiner-paid h5 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+#conteiner-debit {
+    padding-bottom: 24px;
+    display: flex;
+}
+
+#conteiner-transferencia {
+    border-top: 1px solid #E3DED7;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: flex;
+    border-bottom: 1px solid #E3DED7;
+}
+
+#debit {
+    margin-right: 23px;
+    background: #2A5B45;
+    border-radius: 4px;
+    padding: 12px 24px;
+    color: white;
+    border: #2A5B45; 
+    display: flex;
+    cursor: pointer;
+}
+
+#titular-form input {
+    width: 279px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    display: flex;
+}
+
+
+#flex{
+    display: flex;
+}
+
+#titular-form label{
+    display: flex;
+}
+
+#target-form label{
+    display: flex;
+}
+
+
+#flexin{
+    display: flex;
+    text-decoration: none;
+    background-color: rgba(8, 184, 82, 0.95);
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    /* position: absolute; */
+    color: white;
+    /* position: initial; */
+    width: 100px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    top: 140px;
+}
+
+#target-form input {
+    width: 279px;
+    height: 36px;
+    display: flex;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+
+#secret-form input {
+    width: 127.5px;
+    display: flex;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+
+#expiration-form input {
+    width: 127.5px;
+    display: flex;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    margin-right: 11px;
+}
+
+#expiration-cvc {
+    display: flex;
+    
+    margin-bottom: 80px;
+}
+
+
+#bizum{
+    margin-right: 10px;
+}
+
+

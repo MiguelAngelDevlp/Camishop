@@ -1,0 +1,88 @@
+#box-productsss {
+    position: relative;
+    width: 350px;
+    height: 414px;
+    background: #fff;
+    border: solid 4px  #64b340;
+    box-shadow: -5px 5px   #4d8135;
+    transition: all .2s ease-in-out;
+    display: flex;
+    margin-bottom: 15px;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-left: 18px;
+}
+
+#box-productsss:hover {
+    margin: 10px 10px 0 0;
+    box-shadow: 0px 0px  rgba(8, 184, 82, 0.95);;
+}
+
+#box-productsss .info-carddd {
+    position: absolute;
+    height: 150px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-top: solid 1px #333;
+  }
+  
+  .card .info-carddd p {
+    font-size: 150px;
+    margin: 5px;
+  }
+
+#box-productsss:hover {
+    background-color: #E3DED7;
+}
+
+#box-productsss:hover img {
+    filter: blur(1px);
+}
+
+#box-productsss h4 {
+    margin-bottom: 6px;
+    font-weight: 600;
+    font-size: 33px;
+}
+
+#box-productsss p {
+    padding: 10px 0 0 0;
+    margin-bottom: 32px;
+    font-weight: 600;
+    color: grey;
+    font-size: 20px;
+}
+
+#box-productsss img {
+    height: 250px;
+ width: 340px;
+
+}
+
+#box-productsss Button {
+    text-decoration: none;
+    background-color: rgba(8, 184, 82, 0.95);
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    position: absolute;
+    color: white;
+    width: 100px;
+    margin-top: 350px;
+    margin-left: 125px;
+}
+
+#box-productsss Button:hover {
+    background-color:  rgba(25, 136, 71, 0.95);
+}
+
+
+#camisetasss {
+    display: flex;
+    padding: 38px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}

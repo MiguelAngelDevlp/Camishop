@@ -1,0 +1,154 @@
+#ca1 {
+    display: flex;
+    margin-left: 49px;
+    justify-content: space-between;
+    width: 980px;
+    margin-bottom: 55px;
+    align-items: center;
+    border-bottom: 1px solid #E3DED7;
+    padding-bottom: 24px;
+}
+
+#cesta-sect {
+    margin-top: 80px;
+}
+
+#cesta-sect h3 {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom:50px ;
+    margin-top: -40px;
+    font-size: 35px;
+    color: #2A5B45;
+}
+
+#cesta-sect h4 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 48px;
+    margin-bottom: 3px;
+}
+
+#col {
+    display: flex;
+}
+
+#chil1 {
+    display: flex;
+    margin-right: 70px;
+    align-items: center;
+}
+
+#chil1 p {
+    border: solid 1px #F7F5F3;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    color: rgba(42, 91, 69, 1);
+    background-color: #F7F5F3;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 7px;
+    margin: 35px 5px 0 13px;
+}
+
+#chil1 button {
+    width: 24px;
+    height: 24px;
+    text-decoration: none;
+    background-color: white;
+    border: white;
+    font-size: 30px;
+
+}
+
+#chil2 {
+    width: 130px;
+}
+
+
+#chil2 img {
+    width: 120%;
+    padding-left: 30px;
+    padding-right: 0;
+    margin-right: 0;
+    margin-right: 80px;
+}
+
+#chil3 p {
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.548);
+}
+
+#chil3{
+margin-left: 120px;
+padding: 30px;
+}
+
+#chil4 p {
+    font-size: 18px;
+    margin-right: 50px;
+    font-weight: 700;
+}
+
+
+
+#radioBox {
+    /* padding-left: 48px; */
+    width: 980px;
+    padding: 50px;
+}
+#radioBox  h4{
+    margin-top: -50px;
+    margin-bottom: 45px;
+}
+
+.contRadio {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+
+.tog {
+    display: flex;
+    width: 600px;
+    margin-bottom: 60px;
+}
+
+#team{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#precioss{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+
+.tog label {
+    margin-left: 23px;
+    display: flex;
+}
+
+.tog h4 {
+    font-weight: 600;
+    font-size: 14px;
+    padding-left: 22px;
+}
+
+.tog p {
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 22px;
+}
+
+.tog input[type = radio] {
+    accent-color: #2A5B45;
+    width: 17px;
+}
+
+
+.fex{
+    display: flex;
+}

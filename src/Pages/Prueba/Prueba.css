@@ -1,0 +1,130 @@
+.row {
+    /* background-color: blue; */
+    padding: 70px;
+}
+
+.col-8 {
+    /* background-color: rgba(8, 184, 82, 0.95); */
+    background-image: url('../../Assets/cdf.jpg');
+    height: 500px;
+    color: white;
+    border: 5px solid black;
+    margin-left: -25px;
+}
+
+#fondo {
+    background-color: white;
+    padding: 30px 80px;
+    height: 420px;
+    color: black;
+    border-image: url('../../Assets/definitiva_futbol_720x.webp');
+}
+
+#fondo h3 {
+    font-weight: bold;
+
+}
+
+#fondo h2{
+    padding: 5px;
+}
+
+#fondo p {
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+#fondo label{
+    font-weight: bold;
+}
+
+
+#flex {
+    display: flex;
+}
+
+form {
+    display: grid;
+}
+
+.boton {
+    text-decoration: none;
+    background-color: rgba(8, 184, 82, 0.95);
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    /* position: absolute; */
+    color: white;
+    width: 100px;
+    /* margin-top: 350px; */
+    margin-left: 448px;
+}
+
+form input {
+    margin-bottom: 30px;
+}
+
+#box-individual {
+    padding: 10px;
+    margin-top: 15px;
+    
+    margin-bottom: 10px;
+
+    background: white;
+    border: black 3px solid;
+}
+
+
+
+#box-individual h3 {
+
+    font-size: 26px;
+    border-bottom-style: groove;
+    width: 200px;
+    margin-left: 31%;
+}
+
+#box-individual h2 {
+    margin-left: 5px;
+    font-size: 25px;
+    color: grey;
+    padding: 0px;
+}
+
+#foto {
+    width: 400px;
+    margin-top: 20px;
+    border: #c6ac20 12px outset;
+}
+
+#btn {
+    text-decoration: none;
+    background-color: rgba(8, 184, 82, 0.95);
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    position: absolute;
+    color: white;
+    width: 100px;
+    margin-top: 350px;
+    margin-left: 125px;
+}
+
+#btn:hover {
+    background-color: rgba(25, 136, 71, 0.95);
+    font-size: 20px;
+}
+
+.col-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+    margin-left: 20px;
+    background-image: url('../../Assets/nbaforyes.jpg');
+}
+
+.boton{
+    margin-top: 130px;
+    /* margin-right: 11115px; */
+    margin-left: 447px;
+}

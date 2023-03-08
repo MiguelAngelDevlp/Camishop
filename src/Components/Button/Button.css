@@ -1,0 +1,12 @@
+.boton{
+    text-decoration: none;
+    background-color: rgba(8, 184, 82, 0.95);
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    /* position: absolute; */
+    color: white;
+    width: 100px;
+    /* margin-top: 350px; */
+    margin-left: 447.9px
+}

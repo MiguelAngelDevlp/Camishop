@@ -1,0 +1,162 @@
+#pre-footer {
+    color: white;
+    /* background-color: #1F1815; */
+    background-image: url('../../Assets/hierbas.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    /* background-size: cover; */
+    display: flex;
+    justify-content: flex-start;
+width: 1900px;
+height: 300px;
+}
+
+#move{
+    display: inline-flex;
+    /* justify-content: space-evenly; */
+    /* text-align: center; */
+    align-items: center;
+    width: 180px;
+    margin-top: -15px;
+}
+
+#logos-footer {
+    margin: 28px 300px 40px 37px;
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    border-radius: 50px;
+    text-align: start;
+    background-color: black;
+    box-shadow: #64b340 0px 30px 50px -12px inset, rgb(0 0 0 / 30%) 0px 18px 26px -18px inset;
+}
+
+#number{
+    color: whitesmoke;
+    padding: 20px 20px;
+    display: flex;
+}
+
+#logos-footer h5 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-left: 65px;
+    color:  whitesmoke;
+   
+    text-decoration: underline;
+}
+
+#remake-icon-number {
+    background: #515051;
+    width: 182px;
+    height: 48px;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 34px;
+    margin-bottom: 32px;
+}
+
+#remake-icon-number p {
+    padding-top: 15px;
+}
+
+#remake-icon-number img {
+    padding-top: 15px;
+}
+
+#remake-icon-mail {
+    background: #515051;
+    width: 182px;
+    height: 48px;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 34px;
+    margin-bottom: 32px;
+    padding-left: 5px;
+    padding-right: 6px;
+}
+
+#remake-icon-mail p {
+    padding-top: 15px;
+
+}
+
+#remake-icon-mail img {
+    padding-top: 15px;
+}
+
+#flex{
+    display: flex;
+}
+
+#logos-footer IconLogin {
+    margin: 16px 0 16px 0;
+}
+
+.list-footer {
+    margin: 83px 176px 43px 0;
+    flex-direction: column;
+    margin-left: 200px;
+}
+
+.list-footer li a {
+    text-decoration: none;
+    color: white;
+}
+
+.list-footer li {
+    list-style: none;
+    padding-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#listTerms {
+    height: 230px;
+    padding: 12px 8px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-radius: 50px;
+    margin-left: 190px;
+    width: 300px;
+    box-shadow: #64b340 0px 30px 50px -12px inset, rgb(0 0 0 / 30%) 0px 18px 26px -18px inset;
+    margin-top: 20px;
+}
+
+#listTerms h4{
+    margin-bottom: 10px;
+    margin-top: 15px;
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#listTerms li {
+    padding-bottom: 16px;
+    font-weight: 600;
+    margin-top: 15px;
+    font-size: 16px;
+    display: flex;
+    list-style: none;
+}
+
+.small{
+    width: 40px;
+   /* background-color: invert(-1); */
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+
+.correo{
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+#numero{
+    /* font-size: 18px; */
+    margin-top: 8px;
+}

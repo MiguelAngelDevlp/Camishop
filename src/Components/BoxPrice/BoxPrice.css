@@ -1,0 +1,167 @@
+#box-precio-total {
+    background: #F7F5F3;
+    width: 450px;
+    padding: 24px;
+    position: absolute;
+    top: 180px;
+    right: 60px;
+}
+
+#box-precio-total h5 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#caja-subtotal {
+    border-top: 1px solid #E3DED7;
+    margin-top: 10px;
+    padding-top: 16px;
+}
+
+.caja-envio span {
+    font-weight: 700;
+}
+
+.caja-envio {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 16px;
+}
+
+
+#total-id span {
+    font-weight: 700;
+}
+
+
+
+#total-id h6 {
+    font-size: 15px;
+    margin-top: 0px;
+}
+
+.btn-price-check {
+    background-color: #dadada;
+}
+
+#total-id {
+    display: flex;
+    border-top: 1px solid #E3DED7;
+    padding-top: 16px;
+    justify-content: space-between;
+    padding-bottom: 28px;
+}
+
+.iva {
+    /* margin-left: 322px; */
+    margin-bottom: 16px;
+    font-weight: 500;
+    margin-top: -40px;
+    font-size: 14px;
+    width: 500px;
+    color: #515051
+}
+
+#div-grande button {
+    background-color: #589258;
+}
+
+
+
+#buttons-total-price a {
+    text-decoration: none;
+}
+
+#botons button {
+    background-color: #589258;
+    color: white;
+    border-radius: 4px;
+    margin-left: 85px;
+    border: none;
+    margin-top: -35px;
+}
+
+
+
+#botons .btnPrice:hover {
+    font-size: 16.5px;
+    background-color: green;
+}
+
+
+
+#compra button {
+
+    background-color: #E3DED7;
+    color: #097a09;
+    background: transparent;
+    margin-left: 190px;
+    Font-size: 16px;
+    font-weight: 500;
+    margin-top: -18px;
+    /* border-color: #E3DED7; */
+    border: none;
+    text-decoration: underline;
+    width: 200px;
+}
+
+#botons {
+    display: flex;
+
+}
+
+/* #buttons-total-price button{
+    background-color: #2A5B45;
+    border-radius: 4px;
+    color: white;
+} */
+.testimonial-contenedor {
+    background-color: #F7F5F3;
+}
+
+.btncompra {
+    background-color: #E3DED7;
+}
+
+.testimonial {
+    /* padding: 12px;
+    background-color: rgba(8, 184, 82, 0.95);
+    border: none;
+    color: white; */
+    text-decoration: none;
+    background-color: rgba(8, 184, 82, 0.95);
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    /* position: absolute; */
+    color: white;
+    width: 200px;
+    margin-top: -25px;
+    margin-left: -100px
+    
+}
+
+.testimonial:hover{
+    background-color: #589258;
+    font-size: 17px;
+}
+
+
+
+.btn-shop-go {
+    color: white;
+    border: none;
+    background-color: transparent;
+    width: 147px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+
+.btnPrice {
+
+    border-radius: 4px;
+    color: white;
+    padding: 15px;
+    border: none;
+}

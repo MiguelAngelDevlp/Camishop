@@ -1,0 +1,104 @@
+#page-fin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+  
+}
+
+.picFin {
+    background: #319c3f;
+    border-radius: 20px;
+    width: 64px;
+    position: absolute;
+    height: 64px;
+    margin-left: 109px;
+    margin-top: -82px;
+    text-align: center;
+}
+
+.picFin img {
+    margin-top: 15px;
+}
+
+#section-fin {
+    background: #F7F5F3;
+    border-radius: 10px;
+    padding: 24px;
+    width: 1200px;
+}
+
+#chil3 p{
+font-weight: bold;
+}
+
+#section-fin h5 {
+    padding-bottom: 24px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#volver button{
+background-color: #25662e;
+color: white;
+border: none;
+padding: 12px;
+border-radius: 4px;
+margin-top: -80px;
+margin-left: -82px;
+width: 150px;
+margin-bottom: 20px;
+
+}
+
+
+#section-payed {
+    display: flex;
+    justify-content: space-between;
+    /* width: 1200px; */
+    width: 1150px;
+    margin-bottom: 55px;
+    align-items: center;
+    padding-bottom: 24px;
+    border-bottom: #c4c0bc 1px solid;
+}
+
+#fin-text h3 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    color: #2A5B45;
+    
+}
+
+#fin-text p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    padding-bottom: 24px;
+}
+
+.iva2 {
+    margin-left: 1080px;
+    margin-bottom: 16px;
+    font-weight: 400;
+    font-size: 12px;
+    color: #515051;
+}
+
+.last-btn-fin {
+    width: 158px;
+    height: 40px;
+    background: #2A5B45;
+    border-radius: 4px;
+    color: white;
+    border: none;
+    margin-bottom: 300px;
+    cursor: pointer;
+}
+
+#conte {
+    text-align: center;
+}
+

@@ -1,0 +1,39 @@
+
+  .misterio{
+    margin-top: 100px;
+  }
+
+  #section10{
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-left: 12%; */
+    /* width: 1280px; */
+    padding: 8px ;
+
+    margin-bottom: 70px;
+    
+  }
+
+  #atrv{
+position: absolute;
+
+margin-top: 35px;
+z-index: 1;
+font-size: 30px;
+
+  }
+
+  #mistery{
+    position: absolute;
+    z-index: 1;
+   
+    font-weight: 900;
+    font-size: 30px;
+
+  }
+
+
+  #botonees{
+    margin-left: -40px;
+    margin-top: 10px;
+  }

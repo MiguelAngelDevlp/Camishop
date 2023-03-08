@@ -1,0 +1,232 @@
+#box-city {
+    display: flex;
+}
+
+
+#formName {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formName input {
+    width: 521px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formName label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formLastName {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formLastName input {
+    width: 521px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formLastName label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formPhone {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formPhone input {
+    width: 521px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formPhone label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formEmail {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formEmail input {
+    width: 521px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formEmail label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formCountry {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formCountry input {
+    width: 521px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formCountry label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formPoblation {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formPoblation input {
+    width: 248.5px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formPoblation label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formPostal {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formPostal input {
+    width: 248.5px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formPostal label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#box-street {
+    display: flex;
+}
+
+#formDoor {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formDoor input {
+    width: 112.25px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formDoor label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formPiso {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formPiso input {
+    width: 112.25px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formPiso label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formNum {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formNum input {
+    width: 112.25px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#checkin{
+    padding: 20px;
+}
+
+#formNum label{
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#formStreet {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 48px;
+    margin: 27px;
+}
+
+#formStreet input {
+    width: 112.25px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+
+#formStreet label{
+    font-weight: 400;
+    font-size: 18px;
+}

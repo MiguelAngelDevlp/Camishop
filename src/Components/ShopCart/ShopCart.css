@@ -1,0 +1,203 @@
+#conteiner-cesta {
+    z-index: 1;
+    position: absolute;
+    display: table;
+    right: 90px;
+    top: 94px;
+    background-color: rgba(8, 184, 82, 0.95);
+    padding: 20px;
+    border-radius: 100px;
+    width: 120px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px
+}
+
+cart{
+    overflow: scroll;
+}
+
+#style-cesta {
+    margin-bottom: 15px;
+    /* overflow: scroll; */
+}
+
+
+#photo{
+    width: 150px;
+}
+
+#qua p{
+    margin-top: 80px;
+    width: 60px;
+    margin-left: 110px;
+    color: white;
+    font-size: 24px;
+    
+    font-weight: 700;
+
+}
+
+#do-columns {
+    display: flex;
+    border-bottom: 1px solid #4ad32d;
+    /* padding: 20px; */
+    align-items: unset;
+    width: 400px;
+    height: 315px;
+}
+
+#shop-central {
+    padding: 15px;
+    height: 100px;
+    width: 120px;
+}
+
+#shop-central img {
+    /* width: 150px; */
+    /* height: -moz-fit-content; */
+    /* height: fit-content; */
+    /* margin-top: -40px; */
+    height: 200px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#mas{
+    color: white;
+    border: none;
+    background: none;
+    margin-top: 150px;
+    font-size: 50px;
+    margin-left:180px;
+    margin-right: 30px;
+}
+
+#vacio{
+    color: white;
+}
+
+#menos{
+
+    margin-left: 70px;
+    color: white;
+    font-size: 60px;
+    border: none;
+    margin-top: 140px;
+    background: none;
+
+}
+
+
+#shop-central h4 {
+    font-weight: 600;
+    font-size: 22px;
+    margin-left: 25px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: white;
+    width: 150px;
+    display: flex;
+}
+
+#shop-central p {
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 70px;
+    color: white;
+}
+
+#subr{
+    text-decoration: underline;
+    color: white;
+}
+
+#btn-vaciar {
+    text-decoration: none;
+    background-color: #2A5B45;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    margin-left: 20px;
+
+    margin-top: 00px;
+    /* margin-right: -200px; */
+}
+
+#btn-vaciar:hover {
+    font-size: 14.5px;
+
+}
+
+
+#btn-go-cesta {
+    text-decoration: none;
+    background-color: #2A5B45;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    margin-left: -100px;
+    margin-top: 0px;
+}
+
+#btn-go-cesta a {
+    text-decoration: none;
+    color: white;
+}
+
+#btn-go-cesta:hover {
+    font-size: 14.5px;
+}
+
+#shop-buttons {
+    margin-top: -70px;
+    display: flex;
+    margin-left: 30px;
+}
+
+#qua {
+    margin-top: 80px;
+}
+/* 
+#shop-buttons button{
+    width: 40px;
+    border: none;
+    border-radius: 40%;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #2A5B45;
+}
+
+#shop-buttons button:hover {
+    font-size: 17px;
+} */
+
+#shop-buttons span {
+    font-size: 18px;
+    display: none;
+}
+
+#btn-remove-all {
+    width: 40px;
+    height: 40px;
+    
+    margin-left: 400px;
+    font-size: 25px;
+    border: none;
+    border-radius: 50%;
+    margin-top: 20px;
+    color: white;
+    position: relative;
+    top: 0;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+#btn-remove-all:hover {
+    font-size: 24px;
+    opacity: 90%;
+}
